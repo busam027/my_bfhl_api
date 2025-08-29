@@ -1,6 +1,7 @@
 {
   "name": "my_bfhl_api",
   "version": "1.0.0",
+  "description": "BFHL API project",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
